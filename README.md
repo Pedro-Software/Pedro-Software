@@ -196,3 +196,52 @@ Gosto de transformar ideias em sistemas que funcionam de verdade: organizados, s
 │  > Construir soluções reais, seguras e bem documentadas       │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
+
+<!-- ═══════════════════════════════════════════════════════ --> <!-- FEATURED PROJECTS --> <!-- ═══════════════════════════════════════════════════════ -->
+📡 Projetos em destaque
+<table> <tr> <td width="50%" valign="top">
+🔐 Arquitetura SOC
+
+Projeto voltado para segurança cibernética, com foco em monitoramento, análise de logs, detecção de ameaças e uso de ferramentas open source para apoio a um ambiente SOC.
+
+<img src="https://img.shields.io/badge/Seguran%C3%A7a-020617?style=flat-square&logo=securityscorecard&logoColor=38bdf8" /> <img src="https://img.shields.io/badge/SOC-020617?style=flat-square&logo=grafana&logoColor=f97316" /> <img src="https://img.shields.io/badge/Open%20Source-020617?style=flat-square&logo=opensourceinitiative&logoColor=22c55e" /> </td> <td width="50%" valign="top">
+🚀 AstroPose — Hackathon NASA 2025
+
+Projeto desenvolvido em contexto de hackathon, explorando criatividade, inovação, tecnologia e experiência interativa em uma solução com inspiração espacial.
+
+<img src="https://img.shields.io/badge/Hackathon-020617?style=flat-square&logo=nasa&logoColor=38bdf8" /> <img src="https://img.shields.io/badge/Inova%C3%A7%C3%A3o-020617?style=flat-square&logo=rocket&logoColor=f97316" /> <img src="https://img.shields.io/badge/Experi%C3%AAncia-020617?style=flat-square&logo=figma&logoColor=a855f7" /> </td> </tr> <tr> <td width="50%" valign="top">
+🛒 Marketplace Moura Project
+
+Projeto de marketplace voltado para organização de soluções digitais, serviços, produto e experiência do usuário.
+
+<img src="https://img.shields.io/badge/Web-020617?style=flat-square&logo=react&logoColor=38bdf8" /> <img src="https://img.shields.io/badge/Produto-020617?style=flat-square&logo=producthunt&logoColor=ef4444" /> <img src="https://img.shields.io/badge/UX-020617?style=flat-square&logo=figma&logoColor=a855f7" /> </td> <td width="50%" valign="top">
+🌦️ Weather Decision Tree
+
+Projeto com aplicação de árvore de decisão para análise de dados climáticos, conectando lógica computacional e interpretação de dados.
+
+<img src="https://img.shields.io/badge/Dados-020617?style=flat-square&logo=python&logoColor=facc15" /> <img src="https://img.shields.io/badge/Machine%20Learning-020617?style=flat-square&logo=scikitlearn&logoColor=f97316" /> <img src="https://img.shields.io/badge/Decision%20Tree-020617?style=flat-square&logo=thealgorithms&logoColor=22c55e" /> </td> </tr> </table>
+<!-- ═══════════════════════════════════════════════════════ --> <!-- CURRENT QUESTS --> <!-- ═══════════════════════════════════════════════════════ -->
+🧠 Missões atuais
+<div align="center"> <table> <tr> <td align="center" width="20%"> <img src="https://img.shields.io/badge/01-DevSecOps-0f172a?style=for-the-badge&color=38bdf8" /> <br/> <sub>Security gates em pipelines</sub> </td> <td align="center" width="20%"> <img src="https://img.shields.io/badge/02-Blue%20Team-0f172a?style=for-the-badge&color=60a5fa" /> <br/> <sub>Logs, alertas e resposta</sub> </td> <td align="center" width="20%"> <img src="https://img.shields.io/badge/03-Docker%20%26%20Linux-0f172a?style=for-the-badge&color=22c55e" /> <br/> <sub>Ambientes reproduzíveis</sub> </td> <td align="center" width="20%"> <img src="https://img.shields.io/badge/04-Dados%20%26%20IA-0f172a?style=for-the-badge&color=a855f7" /> <br/> <sub>Automação inteligente</sub> </td> <td align="center" width="20%"> <img src="https://img.shields.io/badge/05-Web-0f172a?style=for-the-badge&color=f97316" /> <br/> <sub>Sistemas úteis e bem feitos</sub> </td> </tr> </table> </div>
+<!-- ═══════════════════════════════════════════════════════ --> <!-- PHILOSOPHY --> <!-- ═══════════════════════════════════════════════════════ -->
+💡 Minha visão sobre tecnologia
+
+Segurança não é uma etapa no final do projeto. É uma forma de pensar desde o primeiro commit.
+
+Automação não existe para substituir raciocínio. Existe para liberar tempo para resolver problemas melhores.
+
+Dados sem contexto viram ruído. Software sem propósito vira só código.
+
+<!-- ═══════════════════════════════════════════════════════ --> <!-- CONTRIBUTION SNAKE --> <!-- ═══════════════════════════════════════════════════════ -->
+🐍 Contribuições
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedro-Software/Pedro-Software/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedro-Software/Pedro-Software/output/github-contribution-grid-snake.svg" /> <img alt="Snake animation" src="https://raw.githubusercontent.com/Pedro-Software/Pedro-Software/output/github-contribution-grid-snake.svg" /> </picture> </div>
+<!-- ═══════════════════════════════════════════════════════ --> <!-- FOOTER --> <!-- ═══════════════════════════════════════════════════════ --> <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1e3a8a,100:020617&height=150&section=footer&animation=fadeIn" width="100%" />
+
+Construindo, testando, quebrando, corrigindo e evoluindo.
+<a href="https://www.linkedin.com/in/pedrohenrique-devsecops"> <img src="https://img.shields.io/badge/LinkedIn-38bdf8?style=for-the-badge&logo=linkedin&logoColor=020617" /> </a> <a href="mailto:engpedro.run@gmail.com"> <img src="https://img.shields.io/badge/E--mail-38bdf8?style=for-the-badge&logo=gmail&logoColor=020617" /> </a> <a href="https://github.com/Pedro-Software"> <img src="https://img.shields.io/badge/GitHub-38bdf8?style=for-the-badge&logo=github&logoColor=020617" /> </a>
+
+<br/><br/>
+
+<sub> Software Engineering · DevSecOps · Cybersecurity · Data · AI </sub> </div> ```
