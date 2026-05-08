@@ -248,7 +248,7 @@ Gosto de transformar ideias em sistemas que funcionam de verdade: organizados, s
     <td align="center" width="20%">
       <img src="https://img.shields.io/badge/01-DevSecOps-0f172a?style=for-the-badge&color=38bdf8" />
       <br />
-      <sub>Security gates em pipelines</sub>
+      <sub>CI/CD Pipelines</sub>
     </td>
     <td align="center" width="20%">
       <img src="https://img.shields.io/badge/02-Blue%20Team-0f172a?style=for-the-badge&color=60a5fa" />
