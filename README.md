@@ -27,7 +27,7 @@
 <div align="center">
 
 <a href="https://meu-portfolio1-ochre.vercel.app/">
-  <img src="https://img.shields.io/badge/Veja%20meu-Portf%C3%B3lio-020617?style=for-the-badge&logo=vercel&logoColor=38BDF8&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Veja%20meu-Portf%C3%B3lio-181717?style=for-the-badge&logo=vercel&logoColor=white&labelColor=181717" />
 </a>
 <a href="https://www.linkedin.com/in/pedrohenrique-devsecops">
   <img src="https://img.shields.io/badge/LinkedIn-pedrohenrique--devsecops-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
