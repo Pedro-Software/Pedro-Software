@@ -1,69 +1,189 @@
+<!-- HEADER WAVE -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2040,100:0d1117&height=200&section=header&text=Pedro%20Henrique&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=DevSecOps%20%7C%20Security%20%7C%20Software%20Engineering&descSize=16&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%" />
+
+</div>
+
+<!-- TYPING ANIMATION -->
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=1200&color=3F8CFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pedro+Henrique+%F0%9F%91%8B;Cybersecurity+Analyst;Software+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Pedro+Henrique+%F0%9F%91%8B;Cybersecurity+Analyst+%7C+Blue+Team;DevSecOps+%26+Infrastructure+Engineer;Software+Engineering+Student+%40+IFPE;Builder+of+things+that+actually+work." alt="Typing SVG" />
 </a>
+
+</div>
 
 <br/>
 
-**Engenharia de Software · IFPE**
+<!-- CONTACT BADGES -->
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohenrique-devsecops)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/Pedro-Software)
-[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:engpedro.run@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohenrique-devsecops)
+[![GitHub](https://img.shields.io/badge/-GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedro-Software)
+[![Email](https://img.shields.io/badge/-Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engpedro.run@gmail.com)
 
 </div>
 
 ---
 
-## Sobre
+## `$ whoami`
 
-Estudante de Engenharia de Software no IFPE, com foco em construir coisas que funcionam de verdade — não apenas protótipos.
+```bash
+pedro@sec:~$ cat about.txt
+```
 
-Meu interesse está na intersecção entre **segurança**, **infraestrutura** e **desenvolvimento**: entender como sistemas falham para construí-los melhores. Trabalho com Linux no dia a dia, uso Docker em praticamente tudo e tenho cada vez mais dedicado tempo a práticas de DevSecOps e monitoramento de ambientes.
+```
+▸ Estudante de Engenharia de Software no IFPE
+▸ Foco em segurança defensiva e infraestrutura segura
+▸ Trabalho com Linux diariamente — não por obrigação, por escolha
+▸ Docker em tudo. Automação onde faz sentido. Logs sempre.
+▸ Exploro dados e IA como ferramentas reais, não como buzzword
+```
 
-Paralelamente, exploro dados e IA — não como hype, mas como ferramentas concretas para resolver problemas reais.
+> Meu interesse está na intersecção entre **segurança**, **infraestrutura** e **desenvolvimento**.  
+> Entender como sistemas falham é o que me permite construí-los melhores.
 
 ---
 
-## Áreas de Atuação
+## `$ ls -la /skills`
 
-<table>
+<br/>
+
+<div align="center">
+
+**— Core —**
+
+<img src="https://skillicons.dev/icons?i=python,linux,bash,docker,git&theme=dark&perline=5" />
+
+<br/><br/>
+
+**— Web & Frontend —**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&theme=dark&perline=4" />
+
+<br/><br/>
+
+**— Security & Monitoring —**
+
+<img src="https://skillicons.dev/icons?i=grafana,elasticsearch,nginx,ansible&theme=dark&perline=4" />
+
+<br/><br/>
+
+**— Data & AI —**
+
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,jupyter&theme=dark&perline=4" />
+
+<br/><br/>
+
+**— DevOps —**
+
+<img src="https://skillicons.dev/icons?i=githubactions,kubernetes,terraform,aws&theme=dark&perline=4" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/SOC-Architecture-161b22?style=flat-square&color=58a6ff)
+![](https://img.shields.io/badge/SIEM-ELK_Stack-161b22?style=flat-square&color=3fb950)
+![](https://img.shields.io/badge/Blue_Team-Defender-161b22?style=flat-square&color=1f6feb)
+![](https://img.shields.io/badge/Hardening-Linux-161b22?style=flat-square&color=f78166)
+![](https://img.shields.io/badge/CI%2FCD-DevSecOps-161b22?style=flat-square&color=a371f7)
+![](https://img.shields.io/badge/Docker-Containers-161b22?style=flat-square&color=58a6ff)
+![](https://img.shields.io/badge/ML-scikit--learn-161b22?style=flat-square&color=3fb950)
+![](https://img.shields.io/badge/Threat-Intelligence-161b22?style=flat-square&color=f78166)
+![](https://img.shields.io/badge/Bash-Scripting-161b22?style=flat-square&color=a371f7)
+![](https://img.shields.io/badge/Incident-Response-161b22?style=flat-square&color=1f6feb)
+
+</div>
+
+---
+
+## `$ cat focus.json`
+
+```json
+{
+  "segurança_e_devsecops": {
+    "foco": ["Arquitetura SOC", "Monitoramento contínuo", "SIEM & Logs"],
+    "filosofia": "Segurança não é uma camada — é mentalidade de construção"
+  },
+  "infraestrutura_e_automacao": {
+    "foco": ["Linux", "Docker", "CI/CD seguro", "Scripting"],
+    "filosofia": "Automação existe para liberar tempo para pensar"
+  },
+  "desenvolvimento_web": {
+    "foco": ["APIs", "Full Stack", "UX orientada ao produto"],
+    "filosofia": "Código limpo é documentação. Documentação é respeito"
+  },
+  "dados_e_ia": {
+    "foco": ["Machine Learning", "Análise climática", "MLOps"],
+    "filosofia": "Dados sem contexto são ruído. Contexto sem dados é achismo"
+  }
+}
+```
+
+---
+
+## `$ git log --oneline --projects`
+
+<br/>
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**🔐 Segurança & DevSecOps**
-- Arquitetura SOC e monitoramento
-- Análise de logs e resposta a incidentes
-- Hardening, SIEM e ferramentas open source
-- Integração de segurança no ciclo de desenvolvimento
+### 🛡️ Arquitetura SOC
+**[→ Ver projeto](https://github.com/Pedro-Software/Arquitetura---SOC)**
+
+Arquitetura completa para um Centro de Operações de Segurança. Monitoramento contínuo, correlação de eventos, SIEM open source e fluxo de resposta a incidentes.
+
+```
+Stack: ELK · Grafana · Wazuh · Linux
+Foco:  Blue Team · Detection · Response
+```
 
 </td>
 <td width="50%" valign="top">
 
-**⚙️ Infraestrutura & Automação**
-- Linux (administração e scripting)
-- Docker e containerização
-- Automação de pipelines e tarefas operacionais
-- Versionamento e boas práticas de CI/CD
+### 🚀 AstroPose — NASA Hackathon 2025
+**[→ Ver projeto](https://github.com/Pedro-Software/AstroPose---HackathonNasa---2025)**
+
+Desenvolvido durante o Space Apps Challenge da NASA. Experiência interativa com tecnologia aplicada a um problema espacial real — ideado, prototipado e entregue sob pressão.
+
+```
+Stack: Python · Computer Vision
+Foco:  Inovação · Hackathon · NASA
+```
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🌐 Desenvolvimento Web**
-- Aplicações web com foco em produto
-- APIs e integrações
-- UX prática e orientada ao usuário
+### 🛒 Marketplace Moura Project
+**[→ Ver projeto](https://github.com/Pedro-Software/Marketplace-Moura-Project)**
+
+Plataforma de marketplace com foco em produto, UX e arquitetura web. Projeto full stack com atenção a usabilidade real.
+
+```
+Stack: Web · JS · HTML/CSS
+Foco:  Produto · UX · Full Stack
+```
 
 </td>
 <td width="50%" valign="top">
 
-**📊 Dados & IA**
-- Análise e visualização de dados
-- Machine learning aplicado
-- Decisões orientadas por dados
+### 🌦️ Weather Decision Tree
+**[→ Ver projeto](https://github.com/Pedro-Software/weather-decision-tree)**
+
+Análise e classificação climática com árvore de decisão. Machine learning em dados meteorológicos reais — do pré-processamento ao modelo final.
+
+```
+Stack: Python · scikit-learn · Pandas
+Foco:  ML · Dados · Análise
+```
 
 </td>
 </tr>
@@ -71,100 +191,57 @@ Paralelamente, exploro dados e IA — não como hype, mas como ferramentas concr
 
 ---
 
-## Stack
+## `$ tail -f /var/log/learning.log`
+
+```log
+[2025] Certificação em cibersegurança ..... blue team & threat analysis     [IN PROGRESS]
+[2025] Kubernetes & orquestração ......... containers em escala             [IN PROGRESS]
+[2025] MLOps ................................ modelos em produção real         [IN PROGRESS]
+[2025] CI/CD seguro ........................ pipelines com security gates     [IN PROGRESS]
+[2025] Threat hunting ...................... detecção proativa de ameaças     [STARTED]
+```
+
+---
+
+## `$ echo $MINDSET`
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                   │
+│  "Prefiro entender profundamente um sistema                      │
+│   a decorar sua sintaxe."                                        │
+│                                                                   │
+│  "Segurança não é camada — é mentalidade que                     │
+│   permeia todo o processo de construção."                        │
+│                                                                   │
+│  "Automação existe para liberar tempo para pensar,               │
+│   não para substituir o pensamento."                             │
+│                                                                   │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## Projetos em Destaque
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ [Arquitetura SOC](https://github.com/Pedro-Software/Arquitetura---SOC)
-Projeto de arquitetura para um Centro de Operações de Segurança com foco em monitoramento contínuo, correlação de logs e ferramentas open source. Inclui configuração de SIEM, dashboards e fluxo de resposta a incidentes.
-
-`Security` `SIEM` `Logs` `Monitoramento` `Open Source`
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 [AstroPose — NASA Hackathon 2025](https://github.com/Pedro-Software/AstroPose---HackathonNasa---2025)
-Projeto desenvolvido durante o hackathon da NASA, com foco em experiência interativa e aplicação de tecnologia para um problema espacial real. Resultado de ideação rápida, colaboração e entrega sob pressão.
-
-`Hackathon` `Inovação` `Interatividade` `NASA`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 [Marketplace Moura Project](https://github.com/Pedro-Software/Marketplace-Moura-Project)
-Plataforma de marketplace com foco em produto e experiência do usuário. Projeto voltado ao desenvolvimento web completo, com atenção à usabilidade e arquitetura de aplicação.
-
-`Marketplace` `Web Dev` `UX` `Produto`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌦️ [Weather Decision Tree](https://github.com/Pedro-Software/weather-decision-tree)
-Análise climática utilizando árvore de decisão para classificação e previsão com base em dados meteorológicos. Aplicação prática de machine learning em dados reais.
-
-`Dados` `Machine Learning` `Scikit-learn` `Análise`
-
-</td>
-</tr>
-</table>
-
----
-
-## Como penso tecnologia
-
-> Prefiro entender profundamente um sistema a decorar sua sintaxe.
-> Segurança não é camada — é mentalidade que permeia todo o processo de construção.
-> Automação existe para liberar tempo para pensar, não para substituir o pensamento.
-
----
-
-## Atualmente estudando
-
-- Certificação em cibersegurança (foco em blue team e análise de ameaças)
-- Aprofundamento em Kubernetes e orquestração de containers
-- MLOps e integração de modelos em ambientes de produção
-- Práticas avançadas de CI/CD seguro
-
----
-
-## Contribuições
+## `$ watch git contributions`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Pedro-Software/Pedro-Software/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Pedro-Software/Pedro-Software/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 </div>
 
 ---
 
+<!-- FOOTER WAVE -->
 <div align="center">
 
-**engpedro.run@gmail.com** · [LinkedIn](https://www.linkedin.com/in/pedrohenrique-devsecops) · [GitHub](https://github.com/Pedro-Software)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2040,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+**`engpedro.run@gmail.com`** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/pedrohenrique-devsecops) &nbsp;·&nbsp; [GitHub](https://github.com/Pedro-Software)
 
 <sub>Construindo com consistência.</sub>
 
