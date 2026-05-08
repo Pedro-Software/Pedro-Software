@@ -72,7 +72,7 @@ Gosto de transformar ideias em sistemas que funcionam de verdade: organizados, s
 
 <img 
   src="assets/coding.gif" 
-  width="330" 
+  width="100%" 
   alt="Animação de programação"
 />
 
