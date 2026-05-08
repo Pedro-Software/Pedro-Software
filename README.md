@@ -70,22 +70,16 @@ Projeto com aplicação de árvore de decisão para análise de dados climático
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub em evolução
 
 <p align="center">
-  <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Pedro-Software&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&locale=pt-br&cache_seconds=21600&v=2"
-    alt="Estatísticas do GitHub de Pedro Henrique"
-  />
+  <img src="https://komarev.com/ghpvc/?username=Pedro-Software&label=Visualizações%20do%20perfil&color=0e75b6&style=for-the-badge" alt="Visualizações do perfil" />
+  <img src="https://img.shields.io/github/followers/Pedro-Software?label=Seguidores&style=for-the-badge&logo=github" alt="Seguidores no GitHub" />
+  <img src="https://img.shields.io/github/stars/Pedro-Software?label=Stars&style=for-the-badge&logo=github" alt="Stars no GitHub" />
 </p>
 
 <p align="center">
-  <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Software&layout=compact&theme=transparent&hide_border=true&langs_count=8&locale=pt-br&cache_seconds=21600&v=2"
-    alt="Linguagens mais usadas"
-  />
+  Perfil em constante evolução, com projetos voltados para desenvolvimento de software, DevSecOps, segurança da informação, dados e inteligência artificial.
 </p>
 
 ## 🐍 Contribuições
