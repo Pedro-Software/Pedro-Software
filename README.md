@@ -1,159 +1,175 @@
-<h1 align="center">Pedro Henrique</h1>
-
-<p align="center">
-  Engenharia de Software • DevSecOps • Segurança da Informação • Dados • IA
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedrohenrique-devsecops">
-    <img src="https://img.shields.io/badge/LinkedIn-pedrohenrique--devsecops-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:engpedro.run@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-engpedro.run%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Pedro-Software">
-    <img src="https://img.shields.io/badge/GitHub-Pedro--Software-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## Sobre mim
-
-Sou estudante de **Engenharia de Software no IFPE**, com foco em desenvolvimento de soluções que conectam software, segurança, dados e infraestrutura.
-
-Minha trajetória vem sendo construída em projetos acadêmicos e práticos envolvendo **DevSecOps, segurança cibernética, aplicações web, reconhecimento facial, análise de dados, automação e inteligência artificial aplicada**.
-
-Gosto de trabalhar em soluções que saem do papel: sistemas que organizam processos, reduzem problemas reais e ajudam pessoas, equipes ou instituições a tomarem decisões melhores.
-
----
-
-## O que eu venho construindo
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🔐 Segurança e DevSecOps</h3>
-      <p>
-        Estudos e projetos envolvendo pipelines seguras, automação de testes,
-        análise de vulnerabilidades, monitoramento, logs e práticas de segurança
-        desde o início do desenvolvimento.
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🌐 Desenvolvimento de Software</h3>
-      <p>
-        Construção de aplicações web, APIs, interfaces e sistemas com foco em
-        organização, usabilidade, documentação e entrega funcional.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📊 Dados e Inteligência Artificial</h3>
-      <p>
-        Projetos com análise de dados, dashboards, modelos preditivos,
-        automações inteligentes e uso de IA para apoiar decisões.
-      </p>
-    </td>
-    <td width="50%">
-      <h3>⚙️ Infraestrutura e Automação</h3>
-      <p>
-        Experimentos com Docker, Linux, GitHub Actions, ambientes em nuvem,
-        integração entre serviços e automação de processos técnicos.
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## Tecnologias que fazem parte do meu dia a dia
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,cs,dotnet,java,c,postgres,docker,linux,git,github,figma" />
-</p>
-
 <div align="center">
 
-| Área | Ferramentas e tecnologias |
-|---|---|
-| Front-end | HTML, CSS, JavaScript, TypeScript, React, Next.js |
-| Back-end | Node.js, Python, C#, .NET, Java |
-| Banco de Dados | PostgreSQL, modelagem e consultas SQL |
-| DevOps/DevSecOps | Docker, GitHub Actions, Linux, CI/CD |
-| Segurança | SAST, DAST, análise de vulnerabilidades, logs e monitoramento |
-| Dados e IA | Python, análise de dados, Power BI, modelos e automações |
+```
+██████╗ ███████╗██████╗ ██████╗  ██████╗
+██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔═══██╗
+██████╔╝█████╗  ██║  ██║██████╔╝██║   ██║
+██╔═══╝ ██╔══╝  ██║  ██║██╔══██╗██║   ██║
+██║     ███████╗██████╔╝██║  ██║╚██████╔╝
+╚═╝     ╚══════╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
+```
+
+### Pedro Henrique
+**Engenharia de Software · IFPE**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohenrique-devsecops)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/Pedro-Software)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:engpedro.run@gmail.com)
 
 </div>
 
 ---
 
-## Projetos que representam minha evolução
+## Sobre
+
+Estudante de Engenharia de Software no IFPE, com foco em construir coisas que funcionam de verdade — não apenas protótipos.
+
+Meu interesse está na intersecção entre **segurança**, **infraestrutura** e **desenvolvimento**: entender como sistemas falham para construí-los melhores. Trabalho com Linux no dia a dia, uso Docker em praticamente tudo e tenho cada vez mais dedicado tempo a práticas de DevSecOps e monitoramento de ambientes.
+
+Paralelamente, exploro dados e IA — não como hype, mas como ferramentas concretas para resolver problemas reais.
+
+---
+
+## Áreas de Atuação
 
 <table>
-  <tr>
-    <td>
-      <h3>
-        <a href="https://github.com/Pedro-Software/Arquitetura---SOC">Arquitetura SOC</a>
-      </h3>
-      <p>
-        Projeto voltado para segurança cibernética, com foco em monitoramento,
-        análise de logs, detecção de ameaças e uso de ferramentas open source
-        para apoiar um ambiente de SOC.
-      </p>
-      <p>
-        <strong>Foco:</strong> Segurança • Logs • Monitoramento • Open Source
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>
-        <a href="https://github.com/Pedro-Software/AstroPose---HackathonNasa---2025">AstroPose — Hackathon NASA 2025</a>
-      </h3>
-      <p>
-        Projeto desenvolvido em contexto de hackathon, explorando criatividade,
-        tecnologia e inovação em uma solução com inspiração espacial.
-      </p>
-      <p>
-        <strong>Foco:</strong> Hackathon • Inovação • Experiência Interativa
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>
-        <a href="https://github.com/Pedro-Software/Marketplace-Moura-Project">Marketplace Moura Project</a>
-      </h3>
-      <p>
-        Projeto de marketplace voltado para organização de soluções digitais,
-        serviços e experiência do usuário.
-      </p>
-      <p>
-        <strong>Foco:</strong> Web • Produto • UX • Organização de Serviços
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>
-        <a href="https://github.com/Pedro-Software/weather-decision-tree">Weather Decision Tree</a>
-      </h3>
-      <p>
-        Projeto com aplicação de árvore de decisão para análise de dados
-        climáticos, conectando lógica computacional e interpretação de dados.
-      </p>
-      <p>
-        <strong>Foco:</strong> Dados • Machine Learning • Árvore de Decisão
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔐 Segurança & DevSecOps**
+- Arquitetura SOC e monitoramento
+- Análise de logs e resposta a incidentes
+- Hardening, SIEM e ferramentas open source
+- Integração de segurança no ciclo de desenvolvimento
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ Infraestrutura & Automação**
+- Linux (administração e scripting)
+- Docker e containerização
+- Automação de pipelines e tarefas operacionais
+- Versionamento e boas práticas de CI/CD
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🌐 Desenvolvimento Web**
+- Aplicações web com foco em produto
+- APIs e integrações
+- UX prática e orientada ao usuário
+
+</td>
+<td width="50%" valign="top">
+
+**📊 Dados & IA**
+- Análise e visualização de dados
+- Machine learning aplicado
+- Decisões orientadas por dados
+
+</td>
+</tr>
 </table>
 
 ---
 
-## Minha forma de pensar tecnologia
+## Stack
 
-```txt
-Ideia → Protótipo → Código funcional → Segurança → Dados → Melhoria contínua
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+</div>
+
+---
+
+## Projetos em Destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [Arquitetura SOC](https://github.com/Pedro-Software/Arquitetura---SOC)
+Projeto de arquitetura para um Centro de Operações de Segurança com foco em monitoramento contínuo, correlação de logs e ferramentas open source. Inclui configuração de SIEM, dashboards e fluxo de resposta a incidentes.
+
+`Security` `SIEM` `Logs` `Monitoramento` `Open Source`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 [AstroPose — NASA Hackathon 2025](https://github.com/Pedro-Software/AstroPose---HackathonNasa---2025)
+Projeto desenvolvido durante o hackathon da NASA, com foco em experiência interativa e aplicação de tecnologia para um problema espacial real. Resultado de ideação rápida, colaboração e entrega sob pressão.
+
+`Hackathon` `Inovação` `Interatividade` `NASA`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [Marketplace Moura Project](https://github.com/Pedro-Software/Marketplace-Moura-Project)
+Plataforma de marketplace com foco em produto e experiência do usuário. Projeto voltado ao desenvolvimento web completo, com atenção à usabilidade e arquitetura de aplicação.
+
+`Marketplace` `Web Dev` `UX` `Produto`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌦️ [Weather Decision Tree](https://github.com/Pedro-Software/weather-decision-tree)
+Análise climática utilizando árvore de decisão para classificação e previsão com base em dados meteorológicos. Aplicação prática de machine learning em dados reais.
+
+`Dados` `Machine Learning` `Scikit-learn` `Análise`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Como penso tecnologia
+
+> Prefiro entender profundamente um sistema a decorar sua sintaxe.
+> Segurança não é camada — é mentalidade que permeia todo o processo de construção.
+> Automação existe para liberar tempo para pensar, não para substituir o pensamento.
+
+---
+
+## Atualmente estudando
+
+- Certificação em cibersegurança (foco em blue team e análise de ameaças)
+- Aprofundamento em Kubernetes e orquestração de containers
+- MLOps e integração de modelos em ambientes de produção
+- Práticas avançadas de CI/CD seguro
+
+---
+
+## Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Pedro-Software/Pedro-Software/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<div align="center">
+
+**engpedro.run@gmail.com** · [LinkedIn](https://www.linkedin.com/in/pedrohenrique-devsecops) · [GitHub](https://github.com/Pedro-Software)
+
+<sub>Construindo com consistência.</sub>
+
+</div>
