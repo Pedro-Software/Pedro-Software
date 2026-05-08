@@ -26,7 +26,7 @@ Estudante de Engenharia de Software no IFPE, com foco em construir coisas que fu
 
 Meu interesse está na intersecção entre **segurança**, **infraestrutura** e **desenvolvimento**: entender como sistemas falham para construí-los melhores. Trabalho com Linux no dia a dia, uso Docker em praticamente tudo e tenho cada vez mais dedicado tempo a práticas de DevSecOps e monitoramento de ambientes.
 
-Paralelamente, exploro dados e IA — não como hype, mas como ferramentas concretas para resolver problemas reais.
+Paralelamente, exploro dados e IA não como hype, mas como ferramentas concretas para resolver problemas reais.
 
 ---
 
