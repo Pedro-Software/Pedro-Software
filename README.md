@@ -20,7 +20,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Engenharia de Software no Instituto Federal de Pernambuco — IFPE**, com interesse em desenvolvimento de software, segurança da informação, DevSecOps, dados e inteligência artificial.
+Sou estudante de **Engenharia de Software no Instituto Federal de Pernambuco ⤳ IFPE**, com interesse em desenvolvimento de software, segurança da informação, DevSecOps, dados e inteligência artificial.
 
 Atualmente venho desenvolvendo projetos acadêmicos e práticos envolvendo **aplicações web, automação, pipelines DevSecOps, reconhecimento facial, análise de dados, segurança cibernética e soluções tecnológicas com impacto real**.
 
