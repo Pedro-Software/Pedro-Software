@@ -1,15 +1,11 @@
 <div align="center">
 
-```
-██████╗ ███████╗██████╗ ██████╗  ██████╗
-██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔═══██╗
-██████╔╝█████╗  ██║  ██║██████╔╝██║   ██║
-██╔═══╝ ██╔══╝  ██║  ██║██╔══██╗██║   ██║
-██║     ███████╗██████╔╝██║  ██║╚██████╔╝
-╚═╝     ╚══════╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
-```
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=1200&color=3F8CFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pedro+Henrique+%F0%9F%91%8B;Cybersecurity+Analyst;Software+Engineering+Student" alt="Typing SVG" />
+</a>
 
-### Pedro Henrique
+<br/>
+
 **Engenharia de Software · IFPE**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohenrique-devsecops)
@@ -26,7 +22,7 @@ Estudante de Engenharia de Software no IFPE, com foco em construir coisas que fu
 
 Meu interesse está na intersecção entre **segurança**, **infraestrutura** e **desenvolvimento**: entender como sistemas falham para construí-los melhores. Trabalho com Linux no dia a dia, uso Docker em praticamente tudo e tenho cada vez mais dedicado tempo a práticas de DevSecOps e monitoramento de ambientes.
 
-Paralelamente, exploro dados e IA não como hype, mas como ferramentas concretas para resolver problemas reais.
+Paralelamente, exploro dados e IA — não como hype, mas como ferramentas concretas para resolver problemas reais.
 
 ---
 
