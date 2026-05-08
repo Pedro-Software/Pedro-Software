@@ -53,6 +53,10 @@
 <tr>
 <td width="58%" valign="top">
 
+<table>
+<tr>
+<td width="58%" valign="top">
+
 ## 👾 Sobre mim
 
 Sou estudante de **Engenharia de Software no IFPE**, com foco em construir soluções que conectam **software, segurança, infraestrutura, dados e automação**.
@@ -67,7 +71,7 @@ Gosto de transformar ideias em sistemas que funcionam de verdade: organizados, s
 <img 
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
   width="330" 
-  alt="Coding animation"
+  alt="Animação de programação"
 />
 
 </td>
