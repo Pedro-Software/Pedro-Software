@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Pedro Henrique 👋</h1>
 
 <p align="center">
-  <strong>Estudante de Engenharia de Software • DevSecOps • Segurança da Informação • Dados • IA</strong>
+  <strong>Estudante de Engenharia de Software • DevSecOps • Segurança da Informação </strong>
 </p>
 
 <p align="center">
