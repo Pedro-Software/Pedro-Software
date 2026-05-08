@@ -49,10 +49,6 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                       INTRO                            -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 <table>
 <tr>
 <td width="58%" valign="top">
@@ -79,10 +75,6 @@ Gosto de transformar ideias em sistemas que funcionam de verdade: organizados, s
 </table>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    COSMIC RADAR                        -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -134,10 +126,6 @@ Gosto de transformar ideias em sistemas que funcionam de verdade: organizados, s
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    TECH ORBIT                          -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 ## 🚀 Stack em órbita
 
 <div align="center">
@@ -174,10 +162,6 @@ Gosto de transformar ideias em sistemas que funcionam de verdade: organizados, s
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    TERMINAL CORE                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 ## 🧬 Modo de operação
 
 ```txt
@@ -196,6 +180,8 @@ Gosto de transformar ideias em sistemas que funcionam de verdade: organizados, s
 │  > Construir soluções reais, seguras e bem documentadas       │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
+```
+
 ---
 
 ## 📡 Projetos em destaque
@@ -208,7 +194,7 @@ Gosto de transformar ideias em sistemas que funcionam de verdade: organizados, s
         Projeto voltado para segurança cibernética, com foco em <strong>monitoramento, análise de logs, detecção de ameaças</strong> e uso de ferramentas open source para apoio a um ambiente SOC.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Segurança-020617?style=flat-square&logo=securityscorecard&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/Seguran%C3%A7a-020617?style=flat-square&logo=securityscorecard&logoColor=38bdf8" />
         <img src="https://img.shields.io/badge/SOC-020617?style=flat-square&logo=grafana&logoColor=f97316" />
         <img src="https://img.shields.io/badge/Open%20Source-020617?style=flat-square&logo=opensourceinitiative&logoColor=22c55e" />
       </p>
@@ -220,8 +206,8 @@ Gosto de transformar ideias em sistemas que funcionam de verdade: organizados, s
       </p>
       <p>
         <img src="https://img.shields.io/badge/Hackathon-020617?style=flat-square&logo=nasa&logoColor=38bdf8" />
-        <img src="https://img.shields.io/badge/Inovação-020617?style=flat-square&logo=rocket&logoColor=f97316" />
-        <img src="https://img.shields.io/badge/Experiência-020617?style=flat-square&logo=figma&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/Inova%C3%A7%C3%A3o-020617?style=flat-square&logo=rocket&logoColor=f97316" />
+        <img src="https://img.shields.io/badge/Experi%C3%AAncia-020617?style=flat-square&logo=figma&logoColor=a855f7" />
       </p>
     </td>
   </tr>
