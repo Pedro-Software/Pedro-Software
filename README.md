@@ -53,9 +53,6 @@
 <tr>
 <td width="58%" valign="top">
 
-<table>
-<tr>
-<td width="58%" valign="top">
 
 ## 👾 Sobre mim
 
