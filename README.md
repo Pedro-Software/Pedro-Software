@@ -50,7 +50,7 @@
 
 Estudante de Engenharia de Software no IFPE, com foco em construir coisas que funcionam de verdade.
 
-Meu interesse está na intersecção entre **segurança**, **infraestrutura** e **desenvolvimento** — entender como sistemas falham para construí-los melhores.
+Meu interesse está na intersecção entre **segurança**, **infraestrutura** e **desenvolvimento** entender como sistemas falham para construí-los melhores.
 
 Trabalho com Linux no dia a dia, uso Docker em praticamente tudo e dedico tempo crescente a práticas de **DevSecOps** e monitoramento de ambientes.
 
@@ -223,7 +223,7 @@ Paralelamente, exploro dados e IA como ferramentas concretas, não como buzzword
 <!--                  PHILOSOPHY                            -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## 💡 Como penso tecnologia
+## 💡 Como penso em tecnologia
 
 <div align="center">
 
@@ -233,7 +233,7 @@ Paralelamente, exploro dados e IA como ferramentas concretas, não como buzzword
 
 <br/>
 
-> 🔐 Segurança não é camada — é mentalidade que permeia todo o processo de construção.
+> 🔐 Segurança não é camada é mentalidade que permeia todo o processo de construção.
 
 > ⚙️ Automação existe para liberar tempo para pensar, não para substituir o pensamento.
 
