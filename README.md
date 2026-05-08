@@ -66,7 +66,7 @@ Gosto de transformar ideias em sistemas que funcionam de verdade: organizados, s
 <td width="42%" align="center">
 
 <img 
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+  src="assets/coding.gif" 
   width="330" 
   alt="Animação de programação"
 />
