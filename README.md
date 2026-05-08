@@ -73,15 +73,20 @@ Projeto com aplicação de árvore de decisão para análise de dados climático
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pedro-Software&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Software&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Pedro-Software&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&locale=pt-br&cache_seconds=21600&v=2"
+    alt="Estatísticas do GitHub de Pedro Henrique"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pedro-Software&theme=tokyonight&hide_border=true" />
+  <img 
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Software&layout=compact&theme=transparent&hide_border=true&langs_count=8&locale=pt-br&cache_seconds=21600&v=2"
+    alt="Linguagens mais usadas"
+  />
 </p>
-
----
 
 ## 🐍 Contribuições
 
