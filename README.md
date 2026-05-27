@@ -136,33 +136,62 @@ Gosto de transformar ideias em sistemas que funcionam de verdade: organizados, s
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,cs,dotnet,java,c,postgres,docker,linux,git,github,figma" />
+<table>
+<tr>
+<td align="center" width="25%">
 
-<br/><br/>
+**Frontend**
 
-<img src="https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=FACC15" />
-<img src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/GitHub_Actions-020617?style=for-the-badge&logo=githubactions&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=93C5FD" />
-<img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=FACC15" />
-<img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/.NET-020617?style=for-the-badge&logo=dotnet&logoColor=A78BFA" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 
-</div>
+**HTML • CSS • JS • TS • React • Next**
 
-<br/>
+</td>
+<td align="center" width="25%">
 
-<div align="center">
+**Backend**
 
-| Camada | Tecnologias e práticas |
-|---|---|
-| **Front-end** | HTML, CSS, JavaScript, TypeScript, React, Next.js |
-| **Back-end** | Node.js, Python, C#, .NET, Java |
-| **Banco de Dados** | PostgreSQL, SQL e modelagem de dados |
-| **DevOps** | Docker, Linux, GitHub Actions e CI/CD |
-| **Segurança** | DevSecOps, análise de vulnerabilidades, logs e monitoramento |
-| **Dados e IA** | Python, análise de dados, machine learning e automações |
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+
+**Node • Python • C# • .NET • Java • C**
+
+</td>
+<td align="center" width="25%">
+
+**Dados & IA**
+
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+
+**PostgreSQL • Pandas • Scikit-learn**
+
+</td>
+<td align="center" width="25%">
+
+**DevSecOps**
+
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
+**Docker • Linux • Git • GitHub • Figma**
+
+</td>
+</tr>
+</table>
 
 </div>
 
