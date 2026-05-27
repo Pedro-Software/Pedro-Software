@@ -195,27 +195,6 @@ Gosto de transformar ideias em sistemas que funcionam de verdade: organizados, s
 
 </div>
 
----
-
-## 🧬 Modo de operação
-
-```txt
-┌─ Pedro Henrique ─────────────────────────────────────────────┐
-│                                                              │
-│  $ foco --principal                                          │
-│  > Engenharia de Software + Segurança + DevSecOps            │
-│                                                              │
-│  $ stack --mentalidade                                       │
-│  > Entender o problema antes de escolher a ferramenta         │
-│                                                              │
-│  $ build --processo                                          │
-│  > Ideia → Protótipo → Código → Segurança → Dados → Evolução  │
-│                                                              │
-│  $ objetivo --carreira                                       │
-│  > Construir soluções reais, seguras e bem documentadas       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -277,7 +256,7 @@ Gosto de transformar ideias em sistemas que funcionam de verdade: organizados, s
 
 ## 🧠 Missões atuais
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="20%">
       <img src="https://img.shields.io/badge/01-DevSecOps-0f172a?style=for-the-badge&color=38bdf8" />
@@ -307,15 +286,6 @@ Gosto de transformar ideias em sistemas que funcionam de verdade: organizados, s
   </tr>
 </table>
 
----
-
-## 💡 Minha visão sobre tecnologia
-
-> Segurança não é uma etapa no final do projeto. É uma forma de pensar desde o primeiro commit.
-
-> Automação não existe para substituir raciocínio. Existe para liberar tempo para resolver problemas melhores.
-
-> Dados sem contexto viram ruído. Software sem propósito vira só código.
 
 ---
 
